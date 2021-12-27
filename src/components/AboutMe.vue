@@ -3,19 +3,21 @@
     <Introduction>
       <Title>Introduction</Title>
       <Content>
+        <P> Technology, management, innovation and design enthusiast. </P>
         <P>
-          I'm formally a Developer (at <b>loomi</b> & <b>GZero</b>), but I
-          actually like to be referred as
-          <i>someone who works with technology</i>.
+          Software Manager at <b>loomi</b>; Graduation student in Computer
+          Engineering at CIn / UFPE and Computer Technician at IFRN.
         </P>
         <P>
-          Graduation student in Computer Engineering at CIn / UFPE and Computer
-          Technician at IFRN.
+          Working with management and development of software projects, using
+          agile methodologies, management strategies and evolution of digital
+          products, software architecture and software maintenance techniques.
         </P>
         <P>
-          I'm interested in web development, software management, devops,
-          software infrastructure, software architecture, code design, software
-          security, agile and digital product management.
+          Interested in software development, agile, project management, product
+          management, people development and experience, devops, software
+          infrastructure, software architecture, code design, security and
+          software privacy.
         </P>
       </Content>
     </Introduction>
@@ -24,12 +26,12 @@
       <TimelineEvent
         role="Software Manager"
         time="Now (since 2021.2)"
-        company="at loomi & GZero"
+        company="at loomi"
       />
       <TimelineEvent
         role="Software Developer"
         time="6 months (since 2021.1)"
-        company="at loomi & GZero"
+        company="at loomi"
       />
       <TimelineEvent
         role="Software Manager"
