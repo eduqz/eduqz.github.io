@@ -9,7 +9,7 @@
       <a href="https://github.com/eduqz" target="_blank">
         <Icon :src="require('../assets/icons/github.svg')" />
       </a>
-      <a href="https://medium.com/@eaq" target="_blank">
+      <a href="https://eduqz.medium.com/" target="_blank">
         <Icon :src="require('../assets/icons/medium.svg')" />
       </a>
     </SocialMedias>
